@@ -112,6 +112,11 @@ p a {
 
 p a {
 	font-weight: 600;
+	color: #00b85c;
+}
+
+p a:hover {
+	color: var(--black-text);
 }
 
 a {
